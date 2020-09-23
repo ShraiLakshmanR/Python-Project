@@ -18,6 +18,6 @@
 2)CHECK INFORMATION
 
 >OVERVIEW <br/><br/>
-![](images/%7BA3904A8D-E3CC-4554-BA74-EA107159DADB%7D.png.jpg)
+![](Images/%7BA3904A8D-E3CC-4554-BA74-EA107159DADB%7D.png.jpg)
 <br/><br/>
-![](images/SHOWALLFUNC.jpg)
+![](Images/SHOWALLFUNC.jpg)
